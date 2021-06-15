@@ -23,10 +23,10 @@ public final class Constants {
     public static final int DRIVER = 0;
 
     // CANbus ids
-    public static final int FRONT_LEFT_DRIVE = 0;//check what the PDP uses
+    public static final int FRONT_LEFT_DRIVE = 31;//check what the PDP uses
     public static final int FRONT_RIGHT_DRIVE = 30;
-    //intake goes here
-
+    public static final int INTAKE = 32;
+    public static final int SHOOTER = 33;
     //DriveBase
     public static final double CONTROL_DEADBAND = 0.10;
     
