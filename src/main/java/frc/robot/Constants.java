@@ -24,7 +24,8 @@ public final class Constants {
 
     // CANbus ids
     public static final int FRONT_LEFT_DRIVE = 0;//check what the PDP uses
-    public static final int FRONT_RIGHT_DRIVE = 1;
+    public static final int FRONT_RIGHT_DRIVE = 30;
+    //intake goes here
 
     //DriveBase
     public static final double CONTROL_DEADBAND = 0.10;
